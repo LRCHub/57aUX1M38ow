@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dreamland",
+  "base_artist": "BENNIE K",
+  "createdAt": "2025-12-02T20:45:04.445959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A While in Dreamland",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/01_A_While_in_Dreamland_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamland - Remastered 2018",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/02_Dreamland_-_Remastered_2018_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreamland",
+      "artist": "The B-52's",
+      "has_synced": false,
+      "path": "select/03_Dreamland_The_B-52's.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreamland",
+      "artist": "The B‐52s",
+      "has_synced": false,
+      "path": "select/04_Dreamland_The_B‐52s.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wide Awake In Dreamland",
+      "artist": "Pat Benatar",
+      "has_synced": false,
+      "path": "select/05_Wide_Awake_In_Dreamland_Pat_Benatar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreamland (TWD vocal remix) [feat. Years & Years]",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/06_Dreamland_(TWD_vocal_remix)_[feat._Years_&_Years]_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dreamland (TWD Vocal Remix)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/07_Dreamland_(TWD_Vocal_Remix)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dreamland",
+      "artist": "Pet Shop Boys feat. Years & Years",
+      "has_synced": true,
+      "path": "select/08_Dreamland_Pet_Shop_Boys_feat._Years_&_Years.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dreamland (feat. Years & Years)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/09_Dreamland_(feat._Years_&_Years)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A While In Dreamland",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/10_A_While_In_Dreamland_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A While In Dreamland (Bonus Track)",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/11_A_While_In_Dreamland_(Bonus_Track)_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreamland",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/12_Dreamland_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dreamland",
+      "artist": "Labyrinth",
+      "has_synced": false,
+      "path": "select/13_Dreamland_Labyrinth.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rebellion In Dreamland",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/14_Rebellion_In_Dreamland_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rebellion in Dreamland",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/15_Rebellion_in_Dreamland_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rebellion in Dreamland - Acoustic",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/16_Rebellion_in_Dreamland_-_Acoustic_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rebellion In Dreamland (Karaoke)",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/17_Rebellion_In_Dreamland_(Karaoke)_Gamma_Ray.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreamland",
+      "artist": "BENNIE K",
+      "has_synced": false,
+      "path": "select/pl_01_Dreamland_BENNIE_K.txt"
+    }
+  ]
+}
